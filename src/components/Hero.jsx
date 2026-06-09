@@ -98,9 +98,7 @@ const Hero = () => {
                     12-13 June, 2026
                   </span>
                 </p>
-                <p className="text-sm text-red-500 font-medium mt-1">
-                  (Conference postponed due to some administrative reasons)
-                </p>
+                
               </div>
 
               {/* Tagline */}
