@@ -44,9 +44,7 @@ export default function ImportantDates() {
       description: (
         <>
           The official National Conference on Net-Zero Energy Systems Hybrid Mode 2026.{" "}
-          <span className="text-red-600 font-bold">
-            (Conference postponed due to some administrative reasons)
-          </span>
+          
         </>
       ),
       highlight: false
